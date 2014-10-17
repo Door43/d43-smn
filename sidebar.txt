@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smn:home|Door43 (smn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smn|d43-smn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smn/archive/master.zip|d43-smn.zip]]
+
+**Recent Changes**
+{{changes>ns = smn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smn|Ethnologue data]]
+
